@@ -1,0 +1,152 @@
+Name,Dex number,Type 1,Type 2,Generation introduced,First-stage,Stage 2,Fully Evolved,Legendary,Mythical,Ability 1,Ability 2,Hidden ability,Flag
+Bulbasaur,1,Grass,Poison,1,TRUE,FALSE,FALSE,FALSE,FALSE,Overgrow,None,Chlorophyll,FALSE
+Ivysaur,2,Grass,Poison,1,FALSE,TRUE,FALSE,FALSE,FALSE,Overgrow,None,Chlorophyll,FALSE
+Venusaur,3,Grass,Poison,1,FALSE,FALSE,TRUE,FALSE,FALSE,Overgrow,None,Chlorophyll,FALSE
+Charmander,4,Fire,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Blaze,None,Solar power,FALSE
+Charmeleon,5,Fire,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Blaze,None,Solar power,FALSE
+Charizard,6,Fire,Flying,1,FALSE,FALSE,TRUE,FALSE,FALSE,Blaze,None,Solar power,FALSE
+Squirtle,7,Water,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Torrent,None,Rain dish,FALSE
+Wartortle,8,Water,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Torrent,None,Rain dish,FALSE
+Blastoise,9,Water,None,1,FALSE,FALSE,TRUE,FALSE,FALSE,Torrent,None,Rain dish,FALSE
+Caterpie,10,Bug,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Shield dust,None,Run away,FALSE
+Metapod,11,Bug,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Shed skin,None,None,FALSE
+Butterfree,12,Bug,Flying,1,FALSE,FALSE,TRUE,FALSE,FALSE,Compound eyes,None,Tinted lens,FALSE
+Weedle,13,Bug,Poison,1,TRUE,FALSE,FALSE,FALSE,FALSE,Shield dust,None,Run away,FALSE
+Kakuna,14,Bug,Poison,1,FALSE,TRUE,FALSE,FALSE,FALSE,Shed skin,None,None,FALSE
+Beedrill,15,Bug,Poison,1,FALSE,FALSE,TRUE,FALSE,FALSE,Swarm,None,Sniper,FALSE
+Pidgey,16,Normal,Flying,1,TRUE,FALSE,FALSE,FALSE,FALSE,Keen eye,Tangled feet,Big pecks,FALSE
+Pidgeotto,17,Normal,Flying,1,FALSE,TRUE,FALSE,FALSE,FALSE,Keen eye,Tangled feet,Big pecks,FALSE
+Pidgeot,18,Normal,Flying,1,FALSE,FALSE,TRUE,FALSE,FALSE,Keen eye,Tangled feet,Big pecks,FALSE
+Rattata,19,Normal,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Run away,Guts,Hustle,FALSE
+Raticate,20,Normal,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Run away,Guts,Hustle,FALSE
+Spearow,21,Normal,Flying,1,TRUE,FALSE,FALSE,FALSE,FALSE,Keen eye,None,Sniper,FALSE
+Fearow,22,Normal,Flying,1,FALSE,TRUE,TRUE,FALSE,FALSE,Keen eye,None,Sniper,FALSE
+Ekans,23,Poison,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Intimidate,Shed skin,Unnerve,FALSE
+Arbok,24,Poison,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Intimidate,Shed skin,Unnerve,FALSE
+Pikachu,25,Electric,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Static,None,Lightning rod,FALSE
+Raichu,26,Electric,None,1,FALSE,FALSE,TRUE,FALSE,FALSE,Static,None,Lightning rod,FALSE
+Sandshrew,27,Ground,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Sand veil,None,Sand rush,FALSE
+Sandslash,28,Ground,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Sand veil,None,Sand rush,FALSE
+Nidoran-F,29,Poison,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Poison point,Rivalry,Hustle,FALSE
+Nidorina,30,Poison,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Poison point,Rivalry,Hustle,FALSE
+Nidoqueen,31,Poison,Ground,1,FALSE,FALSE,TRUE,FALSE,FALSE,Poison point,Rivalry,Sheer force,FALSE
+Nidoran-M,32,Poison,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Poison point,Rivalry,Hustle,FALSE
+Nidorino,33,Poison,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Poison point,Rivalry,Hustle,FALSE
+Nidoking,34,Poison,Ground,1,FALSE,FALSE,TRUE,FALSE,FALSE,Poison point,Rivalry,Sheer force,FALSE
+Clefairy,35,Fairy,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Cute charm,Magic guard,Friend guard,FALSE
+Clefable,36,Fairy,None,1,FALSE,FALSE,TRUE,FALSE,FALSE,Cute charm,Magic guard,Unaware,FALSE
+Vulpix,37,Fire,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Flash fire,None,Drought,FALSE
+Ninetales,38,Fire,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Flash fire,None,Drought,FALSE
+Jigglypuff,39,Normal,Fairy,1,FALSE,TRUE,FALSE,FALSE,FALSE,Cute charm,Competitive,Friend guard,FALSE
+Wigglytuff,40,Normal,Fairy,1,FALSE,FALSE,TRUE,FALSE,FALSE,Cute charm,Competitive,Frisk,FALSE
+Zubat,41,Poison,Flying,1,TRUE,FALSE,FALSE,FALSE,FALSE,Inner focus,None,Infiltrator,FALSE
+Golbat,42,Poison,Flying,1,FALSE,TRUE,FALSE,FALSE,FALSE,Inner focus,None,Infiltrator,FALSE
+Oddish,43,Grass,Poison,1,TRUE,FALSE,FALSE,FALSE,FALSE,Chlorophyll,None,Run away,FALSE
+Gloom,44,Grass,Poison,1,FALSE,TRUE,FALSE,FALSE,FALSE,Chlorophyll,None,Stench,FALSE
+Vileplume,45,Grass,Poison,1,FALSE,FALSE,TRUE,FALSE,FALSE,Chlorophyll,None,Effect spore,FALSE
+Paras,46,Bug,Grass,1,TRUE,FALSE,FALSE,FALSE,FALSE,Effect spore,Dry skin,Damp,FALSE
+Parasect,47,Bug,Grass,1,FALSE,TRUE,TRUE,FALSE,FALSE,Effect spore,Dry skin,Damp,FALSE
+Venonat,48,Bug,Poison,1,TRUE,FALSE,FALSE,FALSE,FALSE,Compound eyes,Tinted lens,Run away,FALSE
+Venomoth,49,Bug,Poison,1,FALSE,TRUE,TRUE,FALSE,FALSE,Shield dust,Tinted lens,Wonder skin,FALSE
+Diglett,50,Ground,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Sand veil,Arena trap,Sand force,FALSE
+Dugtrio,51,Ground,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Sand veil,Arena trap,Sand force,FALSE
+Meowth,52,Normal,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Pickup,Technician,Unnerve,FALSE
+Persian,53,Normal,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Limber,Technician,Unnerve,FALSE
+Psyduck,54,Water,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Damp,Cloud nine,Swift swim,FALSE
+Golduck,55,Water,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Damp,Cloud nine,Swift swim,FALSE
+Mankey,56,Fighting,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Vital spirit,Anger point,Defiant,FALSE
+Primeape,57,Fighting,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Vital spirit,Anger point,Defiant,FALSE
+Growlithe,58,Fire,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Intimidate,Flash fire,Justified,FALSE
+Arcanine,59,Fire,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Intimidate,Flash fire,Justified,FALSE
+Poliwag,60,Water,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Water absorb,Damp,Swift swim,FALSE
+Poliwhirl,61,Water,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Water absorb,Damp,Swift swim,FALSE
+Poliwrath,62,Water,Fighting,1,FALSE,FALSE,TRUE,FALSE,FALSE,Water absorb,Damp,Swift swim,FALSE
+Abra,63,Psychic,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Synchronise,Inner focus,Magic guard,FALSE
+Kadabra,64,Psychic,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Synchronise,Inner focus,Magic guard,FALSE
+Alakazam,65,Psychic,None,1,FALSE,FALSE,TRUE,FALSE,FALSE,Synchronise,Inner focus,Magic guard,FALSE
+Machop,66,Fighting,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Guts,No guard,Steadfast,FALSE
+Machoke,67,Fighting,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Guts,No guard,Steadfast,FALSE
+Machamp,68,Fighting,None,1,FALSE,FALSE,TRUE,FALSE,FALSE,Guts,No guard,Steadfast,FALSE
+Bellsprout,69,Grass,Poison,1,TRUE,FALSE,FALSE,FALSE,FALSE,Chlorophyll,None,Gluttony,FALSE
+Weepingbell,70,Grass,Poison,1,FALSE,TRUE,FALSE,FALSE,FALSE,Chlorophyll,None,Gluttony,FALSE
+Victreebell,71,Grass,Poison,1,FALSE,FALSE,TRUE,FALSE,FALSE,Chlorophyll,None,Gluttony,FALSE
+Tentacool,72,Water,Poison,1,TRUE,FALSE,FALSE,FALSE,FALSE,Clear body,Liquid ooze,Rain dish,FALSE
+Tentacruel,73,Water,Poison,1,FALSE,TRUE,TRUE,FALSE,FALSE,Clear body,Liquid ooze,Rain dish,FALSE
+Geodude,74,Rock,Ground,1,TRUE,FALSE,FALSE,FALSE,FALSE,Rock head,Sturdy,Sand veil,FALSE
+Graveler,75,Rock,Ground,1,FALSE,TRUE,FALSE,FALSE,FALSE,Rock head,Sturdy,Sand veil,FALSE
+Golem,76,Rock,Ground,1,FALSE,FALSE,TRUE,FALSE,FALSE,Rock head,Sturdy,Sand veil,FALSE
+Ponyta,77,Fire,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Run away,Flash fire,Flame body,FALSE
+Rapidash,78,Fire,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Run away,Flash fire,Flame body,FALSE
+Slowpoke,79,Water,Psychic,1,TRUE,FALSE,FALSE,FALSE,FALSE,Oblivious,Own tempo,Regenerator,FALSE
+Slowbro,80,Water,Psychic,1,FALSE,TRUE,TRUE,FALSE,FALSE,Oblivious,Own tempo,Regenerator,FALSE
+Magnemite,81,Electric,Steel,1,TRUE,FALSE,FALSE,FALSE,FALSE,Magnet pull,Sturdy,Analytic,FALSE
+Magneton,82,Electric,Steel,1,FALSE,TRUE,FALSE,FALSE,FALSE,Magnet pull,Sturdy,Analytic,FALSE
+Farfetch'd,83,Normal,Flying,1,TRUE,FALSE,TRUE,FALSE,FALSE,Keen eye,Inner focus,Defiant,FALSE
+Doduo,84,Normal,Flying,1,TRUE,FALSE,FALSE,FALSE,FALSE,Run away,Early bird,Tangled feet,FALSE
+Dodrio,85,Normal,Flying,1,FALSE,TRUE,TRUE,FALSE,FALSE,Run away,Early bird,Tangled feet,FALSE
+Seel,86,Water,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Thick fat,Hydration,Ice body,FALSE
+Dewgong,87,Water,Ice,1,FALSE,TRUE,TRUE,FALSE,FALSE,Thick fat,Hydration,Ice body,FALSE
+Grimer,88,Poison,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Stench,Sticky hold,Poison touch,FALSE
+Muk,89,Poison,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Stench,Sticky hold,Poison touch,FALSE
+Shellder,90,Water,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Shell armor,Skill link,Overcoat,FALSE
+Cloyster,91,Water,Ice,1,FALSE,TRUE,TRUE,FALSE,FALSE,Shell armor,Skill link,Overcoat,FALSE
+Gastly,92,Ghost,Poison,1,TRUE,FALSE,FALSE,FALSE,FALSE,Levitate,None,None,FALSE
+Haunter,93,Ghost,Poison,1,FALSE,TRUE,FALSE,FALSE,FALSE,Levitate,None,None,FALSE
+Gengar,94,Ghost,Poison,1,FALSE,FALSE,TRUE,FALSE,FALSE,Cursed body,None,None,FALSE
+Onix,95,Rock,Ground,1,TRUE,FALSE,FALSE,FALSE,FALSE,Rock head,Sturdy,Weak armor,FALSE
+Drowzee,96,Psychic,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Insomnia,Forewarn,Inner focus,FALSE
+Hypno,97,Psychic,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Insomnia,Forewarn,Inner focus,FALSE
+Krabby,98,Water,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Hyper cutter,Shell armor,Sheer force,FALSE
+Kingler,99,Water,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Hyper cutter,Shell armor,Sheer force,FALSE
+Voltorb,100,Electric,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Soundproof,Static,Aftermath,FALSE
+Electrode,101,Electric,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Soundproof,Static,Aftermath,FALSE
+Exeggcute,102,Grass,Psychic,1,TRUE,FALSE,FALSE,FALSE,FALSE,Chlorophyll,None,Harvest,FALSE
+Exeggcutor,103,Grass,Psychic,1,FALSE,TRUE,TRUE,FALSE,FALSE,Chlorophyll,None,Harvest,FALSE
+Cubone,104,Ground,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Rock head,Lightning rod,Battle armor,FALSE
+Marowak,105,Ground,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Rock head,Lightning rod,Battle armor,FALSE
+Hitmonlee,106,Fighting,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Limber,Reckless,Unburden,FALSE
+Hitmonchan,107,Fighting,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Keen eye,Iron fist,Inner focus,FALSE
+Lickitung,108,Normal,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Own tempo,Oblivious,Cloud nine,FALSE
+Koffing,109,Poison,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Levitate,Neutralising gas,Stench,FALSE
+Weezing,110,Poison,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Levitate,Neutralising gas,Stench,FALSE
+Rhyhorn,111,Ground,Rock,1,TRUE,FALSE,FALSE,FALSE,FALSE,Lightning rod,Rock head,Reckless,FALSE
+Rhydon,112,Ground,Rock,1,FALSE,TRUE,FALSE,FALSE,FALSE,Lightning rod,Rock head,Reckless,FALSE
+Chansey,113,Normal,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Natural cure,Serene grace,Healer,FALSE
+Tangela,114,Grass,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Chlorophyll,Leaf guard,Regenerator,FALSE
+Kangaskhan,115,Normal,None,1,TRUE,FALSE,TRUE,FALSE,FALSE,Early bird,Scrappy,Inner focus,FALSE
+Horsea,116,Water,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Swift swim,Sniper,Damp,FALSE
+Seadra,117,Water,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Poison point,Sniper,Damp,FALSE
+Goldeen,118,Water,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Swift swim,Water veil,Lightning rod,FALSE
+Seaking,119,Water,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Swift swim,Water veil,Lightning rod,FALSE
+Staryu,120,Water,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Illuminate,Natural cure,Analytic,FALSE
+Starmie,121,Water,Psychic,1,FALSE,TRUE,TRUE,FALSE,FALSE,Illuminate,Natural cure,Analytic,FALSE
+Mr. Mime,122,Psychic,Fairy,1,FALSE,TRUE,TRUE,FALSE,FALSE,Soundproof,Filter,Technician,FALSE
+Scyther,123,Bug,Flying,1,TRUE,FALSE,FALSE,FALSE,FALSE,Swarm,Technician,Steadfast,FALSE
+Jynx,124,Ice,Psychic,1,FALSE,TRUE,TRUE,FALSE,FALSE,Oblivious,Forewarn,Dry skin,FALSE
+Electabuzz,125,Electric,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Static,None,Vital spirt,FALSE
+Magmar,126,Fire,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Flame body,None,Vital spirt,FALSE
+Pinsir,127,Bug,None,1,TRUE,FALSE,TRUE,FALSE,FALSE,Hyper cutter,Mold breaker,Moxie,FALSE
+Tauros,128,Normal,None,1,TRUE,FALSE,TRUE,FALSE,FALSE,Intimidate,Anger point,Sheer force,FALSE
+Magikarp,129,Water,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Swift swim,None,Rattled,FALSE
+Gyarados,130,Water,Flying,1,FALSE,TRUE,TRUE,FALSE,FALSE,Intimidate,None,Moxie,FALSE
+Lapras,131,Water,Ice,1,TRUE,FALSE,TRUE,FALSE,FALSE,Water absorb,Shell armor,Hydration,FALSE
+Ditto,132,Normal,None,1,TRUE,FALSE,TRUE,FALSE,FALSE,Limber,None,Imposter,FALSE
+Eevee,133,Normal,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Run away,Adaptability,Anticipation,FALSE
+Vaporeon,134,Water,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Water absorb,None,Hydration,FALSE
+Jolteon,135,Electric,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Volt absorb,None,Quick feet,FALSE
+Flareon,136,Fire,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Flash fire,None,Guts,FALSE
+Porygon,137,Normal,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Trace,Download,Analytic,FALSE
+Omanyte,138,Rock,Water,1,TRUE,FALSE,FALSE,FALSE,FALSE,Swift swim,Shell armor,Weak armor,FALSE
+Omastar,139,Rock,Water,1,FALSE,TRUE,TRUE,FALSE,FALSE,Swift swim,Shell armor,Weak armor,FALSE
+Kabuto,140,Rock,Water,1,TRUE,FALSE,FALSE,FALSE,FALSE,Swift swim,Battle armor,Weak armor,FALSE
+Kabutops,141,Rock,Water,1,FALSE,TRUE,TRUE,FALSE,FALSE,Swift swim,Battle armor,Weak armor,FALSE
+Aerodactyl,142,Rock,Flying,1,TRUE,FALSE,TRUE,FALSE,FALSE,Rock head,Pressure,Unnerve,FALSE
+Snorlax,143,Normal,None,1,FALSE,TRUE,TRUE,FALSE,FALSE,Immunity,Thick fat,Gluttony,FALSE
+Articuno,144,Ice,Flying,1,TRUE,FALSE,TRUE,TRUE,FALSE,Pressure,None,Snow cloak,FALSE
+Zapdos,145,Electric,Flying,1,TRUE,FALSE,TRUE,TRUE,FALSE,Pressure,None,Static,FALSE
+Moltres,146,Fire,Flying,1,TRUE,FALSE,TRUE,TRUE,FALSE,Pressure,None,Flame body,FALSE
+Dratini,147,Dragon,None,1,TRUE,FALSE,FALSE,FALSE,FALSE,Shed skin,None,Marvel scale,FALSE
+Dragonair,148,Dragon,None,1,FALSE,TRUE,FALSE,FALSE,FALSE,Shed skin,None,Marvel scale,FALSE
+Dragonite,149,Dragon,Flying,1,FALSE,FALSE,TRUE,FALSE,FALSE,Inner focus,None,Multiscale,FALSE
+Mewtwo,150,Psychic,None,1,TRUE,FALSE,TRUE,TRUE,FALSE,Pressure,None,Unnerve,FALSE
+Mew,151,Psychic,None,1,TRUE,FALSE,TRUE,FALSE,TRUE,Synchronise,None,None,FALSE
